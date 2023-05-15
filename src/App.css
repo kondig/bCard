@@ -106,7 +106,7 @@
 
 .flip-container, .front, .back {
    height: 50vh;
-   width: 70vw;
+   width: 50vw;
 }
 
 .flipper {

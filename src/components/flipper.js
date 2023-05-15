@@ -8,7 +8,7 @@ import ContactDetails from './contact';
 export default function FlippingCard() {
     // const theme = useTheme();
     return (
-        <Box sx={{ width:{xs:'95vw',sm:'80vw',md:'70vw'} }} className="flip-container">
+        <Box sx={{ width:{xs:'95vw',sm:'50vw',md:'50vw'} }} className="flip-container">
             <div className="flipper">
                 <Box className="front">
                     <ZeliaCard /> 

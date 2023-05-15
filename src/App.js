@@ -25,6 +25,12 @@ const theme = createTheme({
         styleOverrides: {
           root: { margin:'5px' }
         }
+      },
+      MuiTooltip: {
+        styleOverrides: {
+          tooltip: { backgroundColor:'#000'},
+          arrow: { color: '#000'}
+        }
       }
   },
 });
